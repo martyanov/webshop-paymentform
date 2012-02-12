@@ -1,0 +1,71 @@
+# English translations for PROJECT.
+# Copyright (C) 2012 ORGANIZATION
+# This file is distributed under the same license as the PROJECT project.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2012.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
+"POT-Creation-Date: 2012-02-13 02:54+0500\n"
+"PO-Revision-Date: 2012-02-13 02:55+0500\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: en <LL@li.org>\n"
+"Plural-Forms: nplurals=2; plural=(n != 1)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 0.9.6\n"
+
+#: application.py:74
+msgid "Missing parameter"
+msgstr ""
+
+#: application.py:75
+msgid "Parameter D is missing"
+msgstr ""
+
+#: application.py:89
+msgid "GET CERTIFICATE"
+msgstr ""
+
+#: application.py:91
+msgid "The corresponding invoice has been paid"
+msgstr ""
+
+#: application.py:120
+msgid "Internal error"
+msgstr ""
+
+#: application.py:121
+msgid "Sorry for the inconvenience"
+msgstr ""
+
+#: templates.py:33
+msgid "WebShop Invoice"
+msgstr ""
+
+#: templates.py:60 templates.py:83
+msgid "Total ePoints uploaded in this session:"
+msgstr ""
+
+#: templates.py:82
+msgid "Enter ePoint RAND:"
+msgstr ""
+
+#: templates.py:105
+msgid "Enter email address:"
+msgstr ""
+
+#: templates.py:106
+msgid "Enter pgp encyption key ID (optional):"
+msgstr ""
+
+#: templates.py:107
+msgid "Enable PGP/MIME:"
+msgstr ""
+
+#: templates.py:108
+msgid "Send"
+msgstr ""
+

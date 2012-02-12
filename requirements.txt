@@ -1,0 +1,9 @@
+Babel==0.9.6
+Flask==0.8
+Flask-Babel==0.8
+Jinja2==2.6
+Werkzeug==0.8.3
+pytz==2011n
+speaklater==1.2
+git+https://github.com/martyanov/webshop-core.git
+git+https://github.com/martyanov/epoint-client.git
